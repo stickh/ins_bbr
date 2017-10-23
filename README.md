@@ -1,3 +1,2 @@
-##this is a bbr automatic install shell scrtpi
-##i get it from teddysun
-
+##This is a shell script to updateb kernel and install Google's bbr
+##The Origin is from teddysun
